@@ -1,28 +1,27 @@
-## ребята я крутой
+## hey there!
 
 <!--
-**noooooobieee/noooooobieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if you came here just to look for nothin
+then leave atp :pray:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+i mean, there is nothing secret.
+i guess?
 -->
 
-- крч я люблю пентагон ой пердон тоесть пиртон
-- я миша9лет
-- я учусь на платформе шкибиди туалетов
-- макс го встр
-- кто такой никита
-- ай виш а вас а литтл бит талер а вис а вас а балер
-- пенис
-- иди нахуй
+- i am 14 years old little programmer!
+- she/her
+- i mostly edit or fork repositories.
+- adhd..
 
+## you can contact me on:
+- discord: funnziesss
+- telegram: t.me/funnzies
 
-ну все пиздуй
+## you can see me on:
+- youtube: @def-not-noobieee
+- github (here!)
+- and obviously at social medias: telegram and discord...
+
+## currently working on:
+- on a bonelab mod, that adds more network layers for fusion:
+(https://github.com/noooooobieee/FusionNetworkingExtender)
