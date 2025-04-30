@@ -2,7 +2,7 @@
 
 <!--
 if you came here just to look for nothin
-then leave atp :pray:
+then leave atp
 
 i mean, there is nothing secret.
 i guess?
@@ -23,5 +23,5 @@ i guess?
 - and obviously at social medias: telegram and discord...
 
 ## currently working on:
-- on a bonelab mod, that adds more network layers for fusion:
-(https://github.com/noooooobieee/FusionNetworkingExtender)
+- blue16, new revival
+(https://github.com/blue16-team)
