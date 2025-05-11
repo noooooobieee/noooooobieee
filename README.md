@@ -28,4 +28,4 @@ i guess?
 
 ![](https://komarev.com/ghpvc/?username=noooooobieee)
 
-[![my meows](https://skillicons.dev/icons?i=js,html,css,vscode,windows,csharp)](https://skillicons.dev)
+[![my meows](https://skillicons.dev/icons?i=js,html,css,vscode,windows,cs,php)](https://skillicons.dev)
