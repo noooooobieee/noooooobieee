@@ -7,6 +7,9 @@ then leave atp
 i mean, there is nothing secret.
 i guess?
 -->
+![noooooobieee's Stats](https://github-readme-stats.vercel.app/api?username=noooooobieee&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![noooooobieee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=noooooobieee&theme=dark&hide_border=false)
+![noooooobieee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noooooobieee&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 - i am 14 years old little programmer!
 - she/her
@@ -25,7 +28,5 @@ i guess?
 ## currently working on:
 - blue16, new revival that aims to run every roblox version possible.
 (https://github.com/blue16-team)
-
-![](https://komarev.com/ghpvc/?username=noooooobieee)
 
 [![my meows](https://skillicons.dev/icons?i=js,html,css,vscode,windows,cs,php,ubuntu,lua,mysql,py)](https://skillicons.dev)
