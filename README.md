@@ -27,3 +27,5 @@ i guess?
 (https://github.com/blue16-team)
 
 ![](https://komarev.com/ghpvc/?username=noooooobieee)
+
+[![my meows](https://skillicons.dev/icons?i=js,html,css,vscode,windows,csharp)](https://skillicons.dev)
