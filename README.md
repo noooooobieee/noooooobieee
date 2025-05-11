@@ -23,5 +23,7 @@ i guess?
 - and obviously at social medias: telegram and discord...
 
 ## currently working on:
-- blue16, new revival
+- blue16, new revival that aims to run every roblox version possible.
 (https://github.com/blue16-team)
+
+![](https://komarev.com/ghpvc/?username=noooooobieee)
