@@ -11,7 +11,7 @@ i guess?
 ![noooooobieee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=noooooobieee&theme=dark&hide_border=false)
 ![noooooobieee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noooooobieee&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-- i am 14 years old little programmer!
+- i am 15 years old little programmer!
 - she/her
 - i mostly edit or fork repositories.
 - adhd..
