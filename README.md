@@ -17,8 +17,8 @@ i guess?
 - adhd..
 
 ## you can contact me on:
-- discord: funnziesss
-- telegram: t.me/funnzies
+- discord: evil_content
+- telegram: t.me/ovr2night
 
 ## you can see me on:
 - youtube: @def-not-noobieee
