@@ -1,20 +1,19 @@
 ## hey there!
 
 <!--
-if you came here just to look for nothin
-then leave atp
+hi
 
-i mean, there is nothing secret.
+there is nothing secret.
 i guess?
 -->
 ![noooooobieee's Stats](https://github-readme-stats.vercel.app/api?username=noooooobieee&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![noooooobieee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=noooooobieee&theme=dark&hide_border=false)
 ![noooooobieee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noooooobieee&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-- i am 15 years old little programmer!
+- i am 15 years old programmist
 - she/her
 - i mostly edit or fork repositories.
-- adhd..
+- adhd
 
 ## you can contact me on:
 - discord: evil_content
@@ -25,8 +24,5 @@ i guess?
 - github (here!)
 - and obviously at social medias: telegram and discord...
 
-## currently working on:
-- blue16, new revival that aims to run every roblox version possible.
-(https://github.com/blue16-team)
-
+  
 [![my meows](https://skillicons.dev/icons?i=js,html,css,vscode,windows,cs,php,ubuntu,lua,mysql,py)](https://skillicons.dev)
